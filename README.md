@@ -1,2 +1,2 @@
-# customer_churn
+# AUTO_ML
 repo for customer_churn project
